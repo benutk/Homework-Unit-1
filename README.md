@@ -11,4 +11,14 @@
 * Ripple is in the Global banking and International remittance space being very disruptive.
 * Ripple is one of the biggest promoters of digital assests. They have help old institutions dip their toes into new tech.
 * Ripple doesn't have much competition right now but IBM has partnered with Jed McCaleb (he had a falling out) and his Stellar blockchain. Other old institution are trying to create their own blockchains but many aren't getting off the ground.
-*
+## Results
+* Ripple is having a huge explosion of growth. They have over 60 major partners. Their Xrp currency has gone from half a cent all the way up to ~20 cents. 
+Even though they are a private company they show annual revenue reports to prove how healthy the company is. There is also rumors that the company might go public. Having Ripple in the stock market will definetly be a metric that they have made it.
+## Recommendations
+* Ripple is a great Fintech company and I have no business giving suggestions on the Tech or Fin side.
+* Ripple does have a few lawsuits pending because the premined Xrp given out could be considered an unregisterd security.
+* My recommendations would be to settle these lawsuits as soon as possible, make peace with the SEC and go public! $$$
+
+
+
+Sources: ripple.com,  wikipedia, coindesk, forbes, cnbc.com
